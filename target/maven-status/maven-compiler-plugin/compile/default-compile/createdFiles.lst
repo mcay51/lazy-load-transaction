@@ -1,0 +1,14 @@
+tr\com\mcay\service\DepartmentService.class
+tr\com\mcay\repository\TaskRepository.class
+tr\com\mcay\controller\DepartmentController.class
+tr\com\mcay\entity\Employee.class
+tr\com\mcay\repository\DepartmentRepository.class
+tr\com\mcay\service\TaskService.class
+tr\com\mcay\config\DataInitializer.class
+tr\com\mcay\entity\Department.class
+tr\com\mcay\repository\EmployeeRepository.class
+tr\com\mcay\controller\EmployeeController.class
+tr\com\mcay\controller\TaskController.class
+tr\com\mcay\entity\Task.class
+tr\com\mcay\service\EmployeeService.class
+tr\com\mcay\LazyLoadingTransactionApplication.class
